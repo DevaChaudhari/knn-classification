@@ -1,7 +1,5 @@
 # KNN Classification Lab
 
-Coursework for Flinders University Master of Data Science — Module 2 Worksheet (Chapter 4).
-
 Implements k-nearest neighbours (KNN) classification across three different datasets, covering model training, prediction, and evaluation.
 
 ## Contents
